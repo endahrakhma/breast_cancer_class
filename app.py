@@ -7,8 +7,6 @@ import pickle
 
 from keras.models import load_model
 
-from sklearn.preprocessing import LabelEncoder
-
 import warnings
 warnings.filterwarnings("ignore")
 
